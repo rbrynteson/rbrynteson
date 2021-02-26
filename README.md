@@ -13,16 +13,6 @@ Hi everyone!  If you have stumbled upon this profile I guess I should say sorry.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Am I fun?
 
-<!-- GitHub Stats -- >
-
-<a href="https://github.com/rbrynteson">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrynteson&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/rbrynteson">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rbrynteson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Richard's GitHub Stats" />
-</a>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
