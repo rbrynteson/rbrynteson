@@ -1,7 +1,7 @@
 ### Richard Brynteson, MVP - @rbrynteson
 
-<a href="https://twitter.com/rbrynteson"><img src="https://img.shields.io/twitter/follow/rbrynteson?style=social"></a>
-
+[![Twitter Badge](https://img.shields.io/twitter/follow/rbrynteson?style=social)](https://twitter.com/rbrynteson)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/richardbrynteson/)
 
 
 Hi everyone!  If you have stumbled upon this profile I guess I should say sorry.  I'm the Director of Development at T2MWorks based out of Denver, CO.  Myself, I live just outside of Minneapolis MN.  Yes it's cold here but the 2 weeks of summer are amazing.  😄
