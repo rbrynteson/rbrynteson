@@ -9,4 +9,5 @@ Hi everyone!  If you have stumbled upon this profile I guess I should say sorry.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Am I fun?
 
-https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Frbrynteson
+<a href="https://twitter.com/rbrynteson"><img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Frbrynteson"></a>
+
